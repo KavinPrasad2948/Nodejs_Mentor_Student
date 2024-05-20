@@ -38,7 +38,7 @@ To get started with this project, follow these steps:
 
 Clone the repository to your local machine:
 1. git Clone the repository:
-     ``` https://github.com/KavinPrasad2948/Nodejs_FileSystem.git```
+     ``` https://github.com/KavinPrasad2948/Nodejs_Mentor_Student.git```
 
 2. Install the necessary dependencies:
    
@@ -49,4 +49,4 @@ Clone the repository to your local machine:
     ```npm start```
 
 📜 License
-This project is licensed under the MIT [License](https://github.com/KavinPrasad2948/Nodejs_FileSystem.git). 🌟
+This project is licensed under the MIT [License](https://github.com/KavinPrasad2948/Nodejs_Mentor_Student.git). 🌟
